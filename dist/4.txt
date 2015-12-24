@@ -1,0 +1,5 @@
+s
+当前只有一种命令
+
+Combinefile("D:\pythontest","txt","newfile") 
+表示合并D:\pythontest路径下后缀名未txt的文件到新文件newfile.txt
